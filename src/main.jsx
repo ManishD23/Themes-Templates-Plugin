@@ -10,7 +10,7 @@ import ChooseUs from "./components/ChooseUs.jsx";
 import Features from "./components/Features.jsx";
 import Allprdoduct from "./components/Allprdoduct.jsx";
 import Testimonial from "./components/Testimonial.jsx";
-import Vlog from "./components/vlog.jsx";
+import Vlog from "./components/Vlog.jsx";
 import Footer from "./components/Footer.jsx";
 
 createRoot(document.getElementById("root")).render(
